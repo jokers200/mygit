@@ -1,11 +1,7 @@
 //
 //  CALayer+Animation.m
-//  KWPlayer
-//
-//  Created by LiuGang on 16/3/7.
-//  Copyright © 2016年 Kuwo Beijing Co., Ltd. All rights reserved.
-//
 
+ 
 #import "CALayer+Animation.h"
 
 @implementation CALayer (Animation)

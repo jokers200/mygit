@@ -1,11 +1,7 @@
 //
 //  CALayer+Animation.h
-//  KWPlayer
 //
-//  Created by LiuGang on 16/3/7.
-//  Copyright © 2016年 Kuwo Beijing Co., Ltd. All rights reserved.
-//
-
+ 
 #import <QuartzCore/QuartzCore.h>
 
 @interface CALayer (Animation)
